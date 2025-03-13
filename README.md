@@ -128,11 +128,11 @@
   can also provide insights into the reliability and track record of the platform you’re considering.
 </p>
 
-<h2>Your One-Stop Solution: <em>AssignmentCompletion.com</em></h2>
+<h2>Your One-Stop Solution: <em>Assignmentcompletion.com</em></h2>
 
 <p>
   Ready to stop worrying about looming deadlines and buggy code? 
-  <strong>We recommend <a href="https://assignmentcompletion.com/course/programming/" target="_blank">AssignmentCompletion.com</a> as your #1 choice</strong> for 
+  <strong>We recommend <a href="https://assignmentcompletion.com/course/programming/" target="_blank">Assignmentcompletion.com</a> as your #1 choice</strong> for 
   professional coding assistance. Here’s why:
 </p>
 
@@ -191,7 +191,7 @@
 <p>
   Remember, you don’t have to navigate the challenges of programming homework alone. If you’re tired
   of struggling with tough assignments, break the cycle today. Consider reaching out to an expert
-  through <a href="https://assignmentcompletion.com/course/programming/" target="_blank">AssignmentCompletion.com</a>,
+  through <a href="https://assignmentcompletion.com/course/programming/" target="_blank">assignmentcompletion.com</a>,
   your #1 destination for reliable, high-quality coding help. Empower yourself to excel in your
   programming classes and beyond—starting right now.
 </p>
