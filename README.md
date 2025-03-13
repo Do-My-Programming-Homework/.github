@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="description" content="Struggling with coding tasks? Learn how to handle 'do my programming homework' requests and get expert help at AssignmentCompletion.com.">
-  <meta name="keywords" content="do my programming homework, programming homework help, coding assignments, assignmentcompletion.com">
-  <meta name="author" content="Your Name or Company">
-  <title>Do My Programming Homework: Get Expert Help to Ace Your Coding Assignments</title>
-
-</head>
-<body>
 
 <h1>Do My Programming Homework: Get Expert Help to Ace Your Coding Assignments</h1>
 
