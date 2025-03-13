@@ -6,36 +6,7 @@
   <meta name="keywords" content="do my programming homework, programming homework help, coding assignments, assignmentcompletion.com">
   <meta name="author" content="Your Name or Company">
   <title>Do My Programming Homework: Get Expert Help to Ace Your Coding Assignments</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      max-width: 800px;
-    }
-    h1, h2, h3 {
-      color: #333;
-    }
-    a {
-      color: #0066cc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .cta {
-      display: inline-block;
-      margin-top: 20px;
-      padding: 10px 15px;
-      background-color: #0066cc;
-      color: #fff;
-      text-decoration: none;
-      border-radius: 5px;
-    }
-    .cta:hover {
-      background-color: #004999;
-    }
-  </style>
+
 </head>
 <body>
 
