@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="wI3eU0W0TJqb2Qq8SM-wIwtT1se0UJ-wE7Sv_ywmx1M" />
+</head>
+<body>
 
 <h1>Do My Programming Homework: Get Expert Help to Ace Your Coding Assignments</h1>
 
