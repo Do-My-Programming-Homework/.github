@@ -1,9 +1,3 @@
-<head>
- <meta name="google-site-verification" content="wI3eU0W0TJqb2Qq8SM-wIwtT1se0UJ-wE7Sv_ywmx1M" />
-</head>
-
-
-
 <h1>Do My Programming Homework: Get Expert Help to Ace Your Coding Assignments</h1>
 
 <p>
